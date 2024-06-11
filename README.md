@@ -15,7 +15,7 @@ Pandas
 Langchain
 
 ## How to Use:
-Run the application (instructions on how to run the script can be added here).
+Run the application
 Interact with the chatbot through the chat interface.
 Describe your food cravings or ask specific questions.
 The chatbot will analyze your input and suggest relevant restaurants based on its AI model.
