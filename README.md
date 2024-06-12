@@ -5,7 +5,7 @@ This project offers a user-friendly chatbot built with Streamlit that recommends
 - Interactive chat interface: Chat with the bot to express your food preferences.
 - AI-powered recommendations: Get personalized food suggestions based on your input.
 - Efficient data retrieval: Chroma library ensures fast and accurate searches.
-- Advanced response generation: Enjoy natural-sounding responses thanks to Nvidia's API.
+- Advanced response generation with Nvidia's API.
 
 <img width="724" alt="image" src="https://github.com/EUPHORIA-7/Food_Recommendation_System/assets/123863667/43165a96-2b4d-4786-8c0c-87626f83ef30">
 
